@@ -3,5 +3,3 @@
 [Resume](https://jonathanhwinter.github.io/resume/)
 
 # Projects
-
-___
